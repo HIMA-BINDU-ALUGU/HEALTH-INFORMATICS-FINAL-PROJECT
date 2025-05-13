@@ -1,0 +1,5 @@
+##these are the dependencies needed
+pandas
+matplotlib
+tk
+os

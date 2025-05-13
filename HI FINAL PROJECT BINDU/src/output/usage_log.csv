@@ -1,0 +1,40 @@
+Timestamp,Username,Role,Action,Status
+2025-05-12 13:38:32,XF6N0R4,admin,Login,Success
+2025-05-12 13:39:19,W3PHXNA,nurse,Login,Success
+2025-05-12 13:43:09,W3PHXNA,nurse,Add Patient,Success
+2025-05-12 13:43:30,W3PHXNA,nurse,Remove Patient,Success
+2025-05-12 13:43:42,W3PHXNA,nurse,Retrieve Patient,Success
+2025-05-12 13:43:59,W3PHXNA,nurse,Count Visits,Success
+2025-05-12 13:44:30,W3PHXNA,nurse,Count Visits,Success
+2025-05-12 13:45:02,W3PHXNA,nurse,View Note,Success
+2025-05-12 13:54:43,93HQIJF,nurse,Login,Success
+2025-05-12 13:55:09,93HQIJF,nurse,Count Visits,Success
+2025-05-12 13:55:46,93HQIJF,nurse,Count Visits,Success
+2025-05-12 14:02:57,B5A3FPH,nurse,Login,Success
+2025-05-12 14:05:39,B5A3FPH,nurse,Login,Success
+2025-05-12 14:06:01,B5A3FPH,nurse,Count Visits,Success
+2025-05-12 14:06:13,B5A3FPH,nurse,Count Visits,Success
+2025-05-12 14:14:05,67JAV8E,N/A,Login Attempt,Failed
+2025-05-12 14:14:37,B5A3FPH,nurse,Login,Success
+2025-05-12 14:15:03,B5A3FPH,nurse,Count Visits,Success
+2025-05-12 14:18:17,W3PHXNA,nurse,Login,Success
+2025-05-12 14:18:35,W3PHXNA,nurse,Count Visits,Success
+2025-05-12 14:18:59,W3PHXNA,nurse,View Note,Success
+2025-05-12 14:21:40,W3PHXNA,nurse,Login,Success
+2025-05-12 14:22:00,W3PHXNA,nurse,View Note,Success
+2025-05-12 14:24:11,W3PHXNA,nurse,Login,Success
+2025-05-12 14:24:23,W3PHXNA,nurse,Count Visits,Success
+2025-05-12 14:24:37,W3PHXNA,nurse,View Note,Success
+2025-05-12 14:43:06,W3PHXNA,nurse,Login,Success
+2025-05-12 14:47:26,W3PHXNA,N/A,Login Attempt,Failed
+2025-05-12 14:47:50,W3PHXNA,N/A,Login Attempt,Failed
+2025-05-12 14:50:59,W3PHXNA,N/A,Login Attempt,Failed
+2025-05-12 14:53:02,W3PHXNA,nurse,Login,Success
+2025-05-12 14:54:57,W3PHXNA,nurse,Add Patient,Success
+2025-05-12 14:57:04,W3PHXNA,nurse,Add Patient,Success
+2025-05-12 14:57:11,W3PHXNA,nurse,Remove Patient,Success
+2025-05-12 14:57:18,W3PHXNA,nurse,Retrieve Patient,Success
+2025-05-12 14:57:30,W3PHXNA,nurse,Count Visits,Success
+2025-05-12 14:57:54,W3PHXNA,nurse,View Note,Success
+2025-05-12 15:01:38,USOOUA9,management,Login,Success
+2025-05-12 15:01:44,USOOUA9,management,Generate Statistics,Success
